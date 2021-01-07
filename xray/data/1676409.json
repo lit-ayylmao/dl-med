@@ -1,0 +1,67 @@
+{
+  "image": {
+    "seq": 13498,
+    "width": 1657,
+    "height": 1530,
+    "filename": "00013498.jpeg",
+    "original_filename": "5083A6B7-8983-472E-A427-570A3E03DDEE.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/1676409/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676409/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13498"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "Temperature:37.8",
+      "tag": {}
+    },
+    {
+      "name": "No Finding",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    },
+    {
+      "name": "Sex/F",
+      "tag": {}
+    },
+    {
+      "name": "CT",
+      "tag": {}
+    },
+    {
+      "name": "View/Axial",
+      "tag": {}
+    },
+    {
+      "name": "No Pneumonia (healthy)",
+      "tag": {}
+    },
+    {
+      "name": "pO2_saturation:98",
+      "tag": {}
+    },
+    {
+      "name": "Age:61",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:38",
+      "tag": {}
+    },
+    {
+      "name": "Intubation_present/N",
+      "tag": {}
+    },
+    {
+      "name": "location:Italy",
+      "tag": {}
+    },
+    {
+      "name": "Intubation/N",
+      "tag": {}
+    }
+  ]
+}

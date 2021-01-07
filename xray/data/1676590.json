@@ -1,0 +1,51 @@
+{
+  "image": {
+    "seq": 13672,
+    "width": 1313,
+    "height": 1471,
+    "filename": "00013672.jpg",
+    "original_filename": "cavitating-pneumonia-4-day0-L.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676590/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676590/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13672"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "PatientID:92",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "Bacterial Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "location:Melbourne, Australia",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Streptococcus",
+      "tag": {}
+    },
+    {
+      "name": "Age:60",
+      "tag": {}
+    },
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    }
+  ]
+}

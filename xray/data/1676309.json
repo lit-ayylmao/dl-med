@@ -1,0 +1,47 @@
+{
+  "image": {
+    "seq": 13398,
+    "width": 1206,
+    "height": 1263,
+    "filename": "00013398.jpeg",
+    "original_filename": "6A7D4110-2BFC-4D9A-A2D6-E9226D91D25A.jpeg",
+    "url": "https://darwin.v7labs.com/api/images/1676309/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676309/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13398"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "PatientID:35",
+      "tag": {}
+    },
+    {
+      "name": "location:Italy",
+      "tag": {}
+    },
+    {
+      "name": "Age:43",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "CT",
+      "tag": {}
+    },
+    {
+      "name": "View/Axial",
+      "tag": {}
+    },
+    {
+      "name": "COVID-19",
+      "tag": {}
+    }
+  ]
+}

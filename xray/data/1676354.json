@@ -1,0 +1,59 @@
+{
+  "image": {
+    "seq": 13443,
+    "width": 438,
+    "height": 462,
+    "filename": "00013443.jpg",
+    "original_filename": "000017-1.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676354/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676354/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13443"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "location:Milan, Italy",
+      "tag": {}
+    },
+    {
+      "name": "Intubation/N",
+      "tag": {}
+    },
+    {
+      "name": "Intubation_present/N",
+      "tag": {}
+    },
+    {
+      "name": "Age:46",
+      "tag": {}
+    },
+    {
+      "name": "Bacterial Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:282",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    },
+    {
+      "name": "Mycoplasma",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    }
+  ]
+}

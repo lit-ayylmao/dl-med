@@ -1,0 +1,63 @@
+{
+  "image": {
+    "seq": 13563,
+    "width": 696,
+    "height": 482,
+    "filename": "00013563.jpg",
+    "original_filename": "16744_2_1.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676474/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676474/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13563"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "View/Axial",
+      "tag": {}
+    },
+    {
+      "name": "location:Evangelismos General Hospital of Athens, Athens, Greece",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "ICU_admission/Y",
+      "tag": {}
+    },
+    {
+      "name": "CT",
+      "tag": {}
+    },
+    {
+      "name": "Intubation/Y",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:216",
+      "tag": {}
+    },
+    {
+      "name": "Age:58",
+      "tag": {}
+    },
+    {
+      "name": "COVID-19",
+      "tag": {}
+    },
+    {
+      "name": "Intubation_present/N",
+      "tag": {}
+    },
+    {
+      "name": "In_ICU_scan/N",
+      "tag": {}
+    }
+  ]
+}

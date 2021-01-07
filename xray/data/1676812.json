@@ -1,0 +1,47 @@
+{
+  "image": {
+    "seq": 13891,
+    "width": 2906,
+    "height": 2938,
+    "filename": "00013891.jpg",
+    "original_filename": "right-upper-lobe-pneumonia-9-L.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676812/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676812/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13891"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "location:Australia",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "Age:75",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:89",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Streptococcus",
+      "tag": {}
+    },
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "Bacterial Pneumonia",
+      "tag": {}
+    }
+  ]
+}

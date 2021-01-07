@@ -1,0 +1,47 @@
+{
+  "image": {
+    "seq": 13871,
+    "width": 906,
+    "height": 907,
+    "filename": "00013871.png",
+    "original_filename": "pneumocystis-pneumonia-2-L.png",
+    "url": "https://darwin.v7labs.com/api/images/1676791/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676791/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13871"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "Pneumocystis",
+      "tag": {}
+    },
+    {
+      "name": "Fungal Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "Age:40",
+      "tag": {}
+    },
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:28",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "location:Melbourne, Australia",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    }
+  ]
+}

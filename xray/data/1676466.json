@@ -1,0 +1,47 @@
+{
+  "image": {
+    "seq": 13555,
+    "width": 700,
+    "height": 749,
+    "filename": "00013555.png",
+    "original_filename": "16689_2_4.png",
+    "url": "https://darwin.v7labs.com/api/images/1676466/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676466/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13555"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "CT",
+      "tag": {}
+    },
+    {
+      "name": "View/Coronal",
+      "tag": {}
+    },
+    {
+      "name": "COVID-19",
+      "tag": {}
+    },
+    {
+      "name": "Sex/F",
+      "tag": {}
+    },
+    {
+      "name": "Age:59",
+      "tag": {}
+    },
+    {
+      "name": "location:Centro Hospitalar Universit�rio do Porto, Porto, Portugal",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:209",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    }
+  ]
+}

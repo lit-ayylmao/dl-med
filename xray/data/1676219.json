@@ -1,0 +1,71 @@
+{
+  "image": {
+    "seq": 13308,
+    "width": 1183,
+    "height": 923,
+    "filename": "00013308.jpg",
+    "original_filename": "1-s2.0-S0929664620300449-gr3_lrg-a.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676219/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676219/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13308"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "In_ICU_scan/N",
+      "tag": {}
+    },
+    {
+      "name": "View/Axial",
+      "tag": {}
+    },
+    {
+      "name": "Intubation/N",
+      "tag": {}
+    },
+    {
+      "name": "CT",
+      "tag": {}
+    },
+    {
+      "name": "ICU_admission/N",
+      "tag": {}
+    },
+    {
+      "name": "Age:55",
+      "tag": {}
+    },
+    {
+      "name": "Intubation_present/N",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    },
+    {
+      "name": "location:Taoyuan General Hospital, Taoyuan, Taiwan",
+      "tag": {}
+    },
+    {
+      "name": "Needed_supplemental_O2/Y",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:19",
+      "tag": {}
+    },
+    {
+      "name": "Sex/F",
+      "tag": {}
+    },
+    {
+      "name": "COVID-19",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    }
+  ]
+}

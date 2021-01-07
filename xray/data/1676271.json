@@ -1,0 +1,67 @@
+{
+  "image": {
+    "seq": 13360,
+    "width": 307,
+    "height": 382,
+    "filename": "00013360.jpg",
+    "original_filename": "000002-11-b.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676271/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676271/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13360"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Intubation_present/N",
+      "tag": {}
+    },
+    {
+      "name": "In_ICU_scan/N",
+      "tag": {}
+    },
+    {
+      "name": "ICU_admission/N",
+      "tag": {}
+    },
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:278",
+      "tag": {}
+    },
+    {
+      "name": "location:Spain",
+      "tag": {}
+    },
+    {
+      "name": "Needed_supplemental_O2/N",
+      "tag": {}
+    },
+    {
+      "name": "Bacterial Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    },
+    {
+      "name": "Age:51",
+      "tag": {}
+    },
+    {
+      "name": "Intubation/N",
+      "tag": {}
+    }
+  ]
+}

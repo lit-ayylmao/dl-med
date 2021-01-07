@@ -1,0 +1,47 @@
+{
+  "image": {
+    "seq": 13528,
+    "width": 512,
+    "height": 512,
+    "filename": "00013528.jpg",
+    "original_filename": "16631_1_3.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676439/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676439/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13528"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "Sex/F",
+      "tag": {}
+    },
+    {
+      "name": "CT",
+      "tag": {}
+    },
+    {
+      "name": "COVID-19",
+      "tag": {}
+    },
+    {
+      "name": "View/Axial",
+      "tag": {}
+    },
+    {
+      "name": "Age:39",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:218",
+      "tag": {}
+    },
+    {
+      "name": "location:The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    }
+  ]
+}

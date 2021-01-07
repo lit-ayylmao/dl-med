@@ -1,0 +1,59 @@
+{
+  "image": {
+    "seq": 13568,
+    "width": 970,
+    "height": 682,
+    "filename": "00013568.PNG",
+    "original_filename": "16745_2_2.PNG",
+    "url": "https://darwin.v7labs.com/api/images/1676479/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676479/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13568"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "Intubation_present/N",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:210",
+      "tag": {}
+    },
+    {
+      "name": "Age:27",
+      "tag": {}
+    },
+    {
+      "name": "CT",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    },
+    {
+      "name": "Intubation/N",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "location:Humanitas Clinical and Research Hospital, Rozzano, Milan, Italy",
+      "tag": {}
+    },
+    {
+      "name": "COVID-19",
+      "tag": {}
+    },
+    {
+      "name": "View/Axial",
+      "tag": {}
+    }
+  ]
+}

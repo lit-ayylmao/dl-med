@@ -1,0 +1,47 @@
+{
+  "image": {
+    "seq": 13389,
+    "width": 325,
+    "height": 328,
+    "filename": "00013389.jpg",
+    "original_filename": "000005-5-b.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676300/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676300/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13389"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "Age:60",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:276",
+      "tag": {}
+    },
+    {
+      "name": "Lipoid pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "Lipoid",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "location:Moscow, Russia",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    }
+  ]
+}

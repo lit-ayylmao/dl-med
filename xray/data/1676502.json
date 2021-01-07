@@ -1,0 +1,47 @@
+{
+  "image": {
+    "seq": 13591,
+    "width": 561,
+    "height": 443,
+    "filename": "00013591.jpg",
+    "original_filename": "16751_3_1.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676502/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676502/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13591"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "Age:62",
+      "tag": {}
+    },
+    {
+      "name": "CT",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:207",
+      "tag": {}
+    },
+    {
+      "name": "location:Hospital Universitario Severo Ochoa, Madrid, Spain",
+      "tag": {}
+    },
+    {
+      "name": "COVID-19",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "View/Coronal",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    }
+  ]
+}

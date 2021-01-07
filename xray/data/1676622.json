@@ -1,0 +1,47 @@
+{
+  "image": {
+    "seq": 13704,
+    "width": 3028,
+    "height": 3028,
+    "filename": "00013704.jpg",
+    "original_filename": "covid-19-pneumonia-7-L.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676622/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676622/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13704"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "COVID-19",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:22",
+      "tag": {}
+    },
+    {
+      "name": "Age:70",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "location:Riccione, Italy",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    }
+  ]
+}

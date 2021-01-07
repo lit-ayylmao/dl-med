@@ -1,0 +1,51 @@
+{
+  "image": {
+    "seq": 13823,
+    "width": 509,
+    "height": 341,
+    "filename": "00013823.jpg",
+    "original_filename": "jkms-35-e79-g001-l-e.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676742/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676742/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13823"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "View/Axial",
+      "tag": {}
+    },
+    {
+      "name": "COVID-19",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:17",
+      "tag": {}
+    },
+    {
+      "name": "Age:54",
+      "tag": {}
+    },
+    {
+      "name": "location:Myongji Hospital, Goyang, South Korea",
+      "tag": {}
+    },
+    {
+      "name": "CT",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "image": {
+    "seq": 13829,
+    "width": 324,
+    "height": 294,
+    "filename": "00013829.jpg",
+    "original_filename": "kjr-21-e24-g002-l-c.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676748/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676748/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13829"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "CT",
+      "tag": {}
+    },
+    {
+      "name": "View/Coronal",
+      "tag": {}
+    },
+    {
+      "name": "Viral Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "location:South Korea",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:64",
+      "tag": {}
+    },
+    {
+      "name": "COVID-19",
+      "tag": {}
+    }
+  ]
+}

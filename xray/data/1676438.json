@@ -1,0 +1,47 @@
+{
+  "image": {
+    "seq": 13527,
+    "width": 512,
+    "height": 512,
+    "filename": "00013527.jpg",
+    "original_filename": "16631_1_2.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676438/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676438/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13527"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "Sex/F",
+      "tag": {}
+    },
+    {
+      "name": "location:The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China",
+      "tag": {}
+    },
+    {
+      "name": "No Pneumonia (healthy)",
+      "tag": {}
+    },
+    {
+      "name": "View/Axial",
+      "tag": {}
+    },
+    {
+      "name": "No Finding",
+      "tag": {}
+    },
+    {
+      "name": "Age:39",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:218",
+      "tag": {}
+    },
+    {
+      "name": "CT",
+      "tag": {}
+    }
+  ]
+}

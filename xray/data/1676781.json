@@ -1,0 +1,39 @@
+{
+  "image": {
+    "seq": 13861,
+    "width": 495,
+    "height": 600,
+    "filename": "00013861.jpg",
+    "original_filename": "pneumocystis-carinii-pneumonia-1-L.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676781/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676781/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13861"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "Pneumocystis",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:105",
+      "tag": {}
+    },
+    {
+      "name": "Sex/M",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "Fungal Pneumonia",
+      "tag": {}
+    }
+  ]
+}

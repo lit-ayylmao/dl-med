@@ -1,0 +1,59 @@
+{
+  "image": {
+    "seq": 13361,
+    "width": 320,
+    "height": 356,
+    "filename": "00013361.jpg",
+    "original_filename": "000002-14.jpg",
+    "url": "https://darwin.v7labs.com/api/images/1676272/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/1676272/thumbnail",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=901&image=13361"
+  },
+  "dataset": "COVID-19 Chest X-Ray Dataset",
+  "annotations": [
+    {
+      "name": "Undefined Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "Sex/F",
+      "tag": {}
+    },
+    {
+      "name": "Intubation/N",
+      "tag": {}
+    },
+    {
+      "name": "X-ray",
+      "tag": {}
+    },
+    {
+      "name": "Intubation_present/N",
+      "tag": {}
+    },
+    {
+      "name": "Pneumonia",
+      "tag": {}
+    },
+    {
+      "name": "Age:71",
+      "tag": {}
+    },
+    {
+      "name": "View/Lateral",
+      "tag": {}
+    },
+    {
+      "name": "PatientID:281",
+      "tag": {}
+    },
+    {
+      "name": "Survival/Y",
+      "tag": {}
+    },
+    {
+      "name": "location:Barcelona, Spain",
+      "tag": {}
+    }
+  ]
+}
