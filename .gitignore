@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Xray data. 
+/xray/images/*
+
+# Ecg data 
+/ecg/ptb-diagnostic-ecg-database-1.0.0
+
